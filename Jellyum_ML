@@ -1,0 +1,144 @@
+<div class="card col-lg-12 mx-auto p-0" style="max-width:550px; border-radius:5px;">
+    
+    <div class="card border-0 p-2 bg-primary">
+
+<!----- [Masterlist Number] ----->
+
+      <h1 class="display-4 text-center text-white">
+        
+        ####
+        
+        </h1>
+      
+<!---------------------------->
+    
+    </div>
+    
+<!----- [ NAV DON"T TOUCH ] ----->
+
+<ul class="nav nav-btn nav-justified p-0">
+    <li class="nav-item">
+    <a  class="nav-link btn btn-outline-primary active  rounded-0 text-uppercase border-0"  style="box-shadow:none;" data-toggle="pill" href="#one">About</i></a>
+    </li>
+     <li class="nav-item">
+    <a  class="nav-link btn btn-outline-primary rounded-0 text-uppercase border-0"  style="box-shadow:none;"   data-toggle="pill" href="#two">Traits</a>
+    </li>
+     <li class="nav-item">
+    <a  class="nav-link btn btn-outline-primary rounded-0 text-uppercase border-0"  style="box-shadow:none;"  data-toggle="pill" href="#three">Magic</a>
+    </li>
+      </ul>
+      
+ <!---------->
+    
+    <div class="card p-3 bg-faded rounded-0 border-top-0 border-right-0 border-left-0">
+       <div class="tab-content" style="height: 250px; overflow:auto">
+  <div class="tab-pane fade show active" id="one">
+      
+<!----- [ About Tab ] ----->
+
+          <p class="justify-content-between m-2"><b>Current Owner</b>
+          
+          username
+          
+          </p>
+          <hr>
+          <p class="justify-content-between m-2"><b>Designer</b> 
+          
+          username
+          
+          </p>
+          <hr>
+          <p class="justify-content-between m-2"><b>Base Price</b> 
+          
+          $ammount
+          
+          </p>
+          <hr>
+          <p class="justify-content-between m-2"><b>Rarity</b> 
+          
+          Type
+          
+          </p>
+          <hr>
+
+<!------------------>
+      
+      </div>
+      
+<!----- [ Traits Tab ] ----->
+
+  <div class="tab-pane fade show" id="two">
+          <p class="justify-content-between m-2"><b>Head</b> 
+          
+          Rarity: Type
+          
+          </p>
+          <hr>
+          <p class="justify-content-between m-2"><b>Tail</b> 
+          
+          Rarity: Type
+          
+          </p>
+          <hr>
+          <p class="justify-content-between m-2"><b>Tounge</b> 
+          
+          Rarity: Type
+          
+          </p>
+          <hr>
+          <p class="justify-content-between m-2"><b>Jelly</b> 
+          
+          Rarity: Type
+          
+          </p>
+          <hr>
+          <p class="justify-content-between m-2"><b>Flavor</b> 
+          
+          Type
+          
+          </p>
+          <hr>
+          <p class="justify-content-between m-2"><b>Hands</b> 
+          
+          Rarity: Type
+          
+          </p>
+          <hr>
+          <p class="justify-content-between m-2"><b>Feet</b> 
+          
+          Rarity: Type
+          
+          </p>
+          <hr>
+          <p class="justify-content-between m-2"><b>Genitals</b> 
+          
+          Rarity: Type
+          
+          </p>
+          <hr>
+          <p class="justify-content-between m-2"><b>Misc.</b> 
+          
+          Rarity: Type
+          
+          </p>
+      
+      </div>
+
+<!----- [ Magic Tab ] ----->
+
+    <div class="tab-pane fade show" id="three">
+      
+      <p class="justify-content-between m-2"><b>
+        
+            Rarity of magic here
+                    
+        </b> 
+          
+          type of magic here
+          
+          </p>
+      
+      </div>
+<!------------------------------------->
+    
+</div></div></div>
