@@ -1,0 +1,214 @@
+<div class="container">
+  <div class="row">
+    
+    <div class="col">
+      <div class="bg-primary" style="border-radius: 15px; padding: 15px;">
+        
+        <!--- profile image here --->
+        <img src="https://blocks.astratic.com/img/general-img-square.png" style="border-radius: 15px;">
+        <!--- profile image here --->
+        
+      </div>
+      <div style="text-align:right;">
+        <p>
+          <a data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+            <p style="font-size: 25px; margin-bottom:15px;"></i><i class="fa-solid fa-turn-down"></i></p>
+          </a>
+        </p>
+        <div class="collapse" id="collapseExample">
+          <div>
+              <ul class="nav flex-column" style="text-align:right;">
+                  <li class="nav-item" style="margin-bottom: 10px;"><a href="#ONE" data-toggle="tab" class="nav-link active btn btn-primary text-uppercase font-weight-bold"><i class="fa-solid fa-pencil"></i></a></li>
+                  <li class="nav-item" style="margin-bottom: 10px;"><a href="#TWO" data-toggle="tab" class="nav-link btn btn-primary text-uppercase font-weight-bold"><i class="fa-solid fa-check"></i></a></li>
+                  <li class="nav-item" style="margin-bottom: 10px;"><a href="#THREE" data-toggle="tab" class="nav-link btn btn-primary text-uppercase font-weight-bold"><i class="fa-solid fa-book"></i></a></li>
+                  <li class="nav-item" style="margin-bottom: 10px;"><a href="#FOUR" data-toggle="tab" class="nav-link btn btn-primary text-uppercase font-weight-bold"><i class="fa-solid fa-heart"></i></a></li>
+                </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-8 tab-content">
+      
+    <!--- Character information here --->
+    
+    <div class="tab-pane active" id="ONE">
+      
+        <div class="bg-info" style="border-radius: 15px; padding: 10px; padding-top: 15px; margin-bottom: 15px;">
+          <h1><i class="fa-solid fa-star"></i> Character Name</h1>
+        </div>
+        <div class="bg-primary" style="border-radius: 15px; padding: 15px; height: 550px; overflow: auto;">
+          <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;">
+            
+            <b>Nickname(s)</b> text
+          
+            <hr style="color: white; margin-top: 0px; border-top: dashed 1px; margin-left: 20px; margin-right: 20px;">
+          </p>
+          <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;">
+            
+            <b>Age</b> text
+            
+            <hr style="color: white; margin-top: 0px; border-top: dashed 1px; margin-left: 20px; margin-right: 20px;">
+          </p>
+          <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;">
+            
+            <b>Gender</b> text
+            
+            <hr style="color: white; margin-top: 0px; border-top: dashed 1px; margin-left: 20px; margin-right: 20px;">
+          </p>
+          <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;">
+            
+            <b>Pronouns</b> text
+            
+            <hr style="color: white; margin-top: 0px; border-top: dashed 1px; margin-left: 20px; margin-right: 20px;"></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;">
+            
+            <b>Place of Birth</b> text
+            
+            <hr style="color: white; margin-top: 0px; border-top: dashed 1px; margin-left: 20px; margin-right: 20px;"></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;">
+            
+            <b>Date of Birth</b> text
+            
+            <hr style="color: white; margin-top: 0px; border-top: dashed 1px; margin-left: 20px; margin-right: 20px;"></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;">
+            
+            <b>Star Sign</b> text
+            
+            <hr style="color: white; margin-top: 0px; border-top: dashed 1px; margin-left: 20px; margin-right: 20px;"></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;">
+            
+            <b>Pronouns</b> text
+            
+            <hr style="color: white; margin-top: 0px; border-top: dashed 1px; margin-left: 20px; margin-right: 20px;"></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;">
+            
+            <b>Species/Race</b> text
+            
+            <hr style="color: white; margin-top: 0px; border-top: dashed 1px; margin-left: 20px; margin-right: 20px;"></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;">
+            
+            <b>Occupation</b> text
+            
+            <hr style="color: white; margin-top: 0px; border-top: dashed 1px; margin-left: 20px; margin-right: 20px;"></p>
+          </div>
+        
+    </div>
+    
+    <!--- Character Preferences Here --->
+    
+    <div class="tab-pane" id="TWO">
+      
+        <div class="bg-info" style="border-radius: 15px; padding: 10px; padding-top: 15px; margin-bottom: 15px;">
+          <h1><i class="fa-solid fa-star"></i> Preferences</h1>
+        </div>
+        <div class="bg-primary" style="border-radius: 15px; padding: 15px; height: 550px; overflow: auto;">
+          
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;"><h3>Likes</h3></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;"><b>
+              
+              like
+              
+              </b> <i class="fa-solid fa-heart"></i><i class="fa-thin fa-heart"></i><i class="fa-thin fa-heart"></i><i class="fa-thin fa-heart"></i><i class="fa-thin fa-heart"></i></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;"><b>
+              
+              like
+              
+              </b> <i class="fa-solid fa-heart"></i><i class="fa-solid fa-heart"></i><i class="fa-thin fa-heart"></i><i class="fa-thin fa-heart"></i><i class="fa-thin fa-heart"></i></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;"><b>
+              
+              like
+              
+              </b> <i class="fa-solid fa-heart"></i><i class="fa-solid fa-heart"></i><i class="fa-solid fa-heart"></i><i class="fa-thin fa-heart"></i><i class="fa-thin fa-heart"></i></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;"><b>
+              
+              like
+              
+              </b> <i class="fa-solid fa-heart"></i><i class="fa-solid fa-heart"></i><i class="fa-solid fa-heart"></i><i class="fa-solid fa-heart"></i><i class="fa-thin fa-heart"></i></p>
+            
+            <hr style="color: white; margin-top: 0px; border-top: dashed 1px; margin-left: 20px; margin-right: 20px;">
+            
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;"><h3>Dislikes</h3></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;"><b>
+              
+              dislike 
+              
+              </b> <i class="fa-solid fa-circle-xmark"></i><i class="fa-thin fa-circle"></i><i class="fa-thin fa-circle"></i><i class="fa-thin fa-circle"></i><i class="fa-thin fa-circle"></i></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;"><b>
+              
+              dislike
+              
+              </b> <i class="fa-solid fa-circle-xmark"></i><i class="fa-solid fa-circle-xmark"></i><i class="fa-thin fa-circle"></i><i class="fa-thin fa-circle"></i><i class="fa-thin fa-circle"></i></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;"><b>
+              
+              dislike
+              
+              </b> <i class="fa-solid fa-circle-xmark"></i><i class="fa-solid fa-circle-xmark"></i><i class="fa-solid fa-circle-xmark"></i><i class="fa-thin fa-circle"></i><i class="fa-thin fa-circle"></i></p>
+            <p class="justify-content-between m-2"style="color: white; padding-left: 20px; padding-right: 20px;"><b>
+              
+              dislike
+              
+              </b> <i class="fa-solid fa-circle-xmark"></i><i class="fa-solid fa-circle-xmark"></i><i class="fa-solid fa-circle-xmark"></i><i class="fa-solid fa-circle-xmark"></i><i class="fa-thin fa-circle"></i></p>
+            
+            <hr style="color: white; margin-top: 0px; border-top: dashed 1px; margin-left: 20px; margin-right: 20px;">
+            
+            <p>Extra Desc. Here?</p>
+            
+        </div>
+      
+    </div>
+    
+    <!--- Characer Story Here --->
+    
+    <div class="tab-pane" id="THREE">
+      
+        <div class="bg-info" style="border-radius: 15px; padding: 10px; padding-top: 15px; margin-bottom: 15px;">
+          <h1><i class="fa-solid fa-star"></i> Story</h1>
+        </div>
+        <div class="bg-primary" style="border-radius: 15px; padding: 15px; height: 550px; overflow: auto;">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non lorem lacus. Aliquam id dui velit. Duis rhoncus, dui eget blandit feugiat, mauris mi ornare risus, eu pretium enim ligula nec enim. Ut eget fringilla mi. Vestibulum vitae quam elementum, fermentum ipsum quis, pharetra augue. Nam semper iaculis leo, a efficitur orci pulvinar eget. Quisque tempus lacus quis blandit ultrices. Aliquam lobortis metus quis dapibus placerat. Ut tristique vitae diam ut laoreet. Mauris faucibus libero quis velit convallis molestie eget vel elit. Etiam fringilla eleifend massa, id aliquam enim semper ac. Ut in felis quam. In efficitur, erat eget luctus fermentum, felis libero maximus mauris, vitae malesuada massa ante consectetur nunc. Mauris congue odio eu purus pharetra tempor. Suspendisse potenti. Nulla vitae luctus purus, sed congue dui.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non lorem lacus. Aliquam id dui velit. Duis rhoncus, dui eget blandit feugiat, mauris mi ornare risus, eu pretium enim ligula nec enim. Ut eget fringilla mi. Vestibulum vitae quam elementum, fermentum ipsum quis, pharetra augue. Nam semper iaculis leo, a efficitur orci pulvinar eget. Quisque tempus lacus quis blandit ultrices. Aliquam lobortis metus quis dapibus placerat. Ut tristique vitae diam ut laoreet. Mauris faucibus libero quis velit convallis molestie eget vel elit. Etiam fringilla eleifend massa, id aliquam enim semper ac. Ut in felis quam. In efficitur, erat eget luctus fermentum, felis libero maximus mauris, vitae malesuada massa ante consectetur nunc. Mauris congue odio eu purus pharetra tempor. Suspendisse potenti. Nulla vitae luctus purus, sed congue dui.</p>
+        </div>
+      
+    </div>
+    
+    <!--- Character Relationships Here --->
+    
+    <div class="tab-pane" id="FOUR">
+      
+        <div class="bg-info" style="border-radius: 15px; padding: 10px; padding-top: 15px; margin-bottom: 15px;">
+          <h1><i class="fa-solid fa-star"></i> Relationships</h1>
+        </div>
+        <div class="bg-primary" style="border-radius: 15px; padding: 15px; height: 550px; overflow: auto;">
+          
+          <p style="display:flex;"><img src="https://blocks.astratic.com/img/general-img-square.png" style="margin-right:10px; border-radius: 15px; width: 100px;display: flex;">
+          Name: 
+          <br> Relationship:
+          </p>
+          <p>Feelings: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non lorem lacus. Aliquam id dui velit. Duis rhoncus, dui eget blandit feugiat, mauris mi ornare risus, eu pretium enim ligula nec enim. Ut eget fringilla mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non lorem lacus. Aliquam id dui velit. Duis rhoncus, dui eget blandit feugiat, mauris mi ornare risus, eu pretium enim ligula nec enim. Ut eget fringilla mi.</p>
+          <hr style="color: white; border-top: dashed 1px;"></p>
+          
+          <p style="display:flex;"><img src="https://blocks.astratic.com/img/general-img-square.png" style="margin-right:10px; border-radius: 15px; width: 100px;display: flex;">
+          Name: 
+          <br> Relationship:
+          </p>
+          <p>Feelings: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non lorem lacus. Aliquam id dui velit. Duis rhoncus, dui eget blandit feugiat, mauris mi ornare risus, eu pretium enim ligula nec enim. Ut eget fringilla mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non lorem lacus. Aliquam id dui velit. Duis rhoncus, dui eget blandit feugiat, mauris mi ornare risus, eu pretium enim ligula nec enim. Ut eget fringilla mi.</p>
+          <hr style="color: white; border-top: dashed 1px;"></p>
+          
+          <p style="display:flex;"><img src="https://blocks.astratic.com/img/general-img-square.png" style="margin-right:10px; border-radius: 15px; width: 100px;display: flex;">
+          Name: 
+          <br> Relationship:
+          </p>
+          <p>Feelings: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non lorem lacus. Aliquam id dui velit. Duis rhoncus, dui eget blandit feugiat, mauris mi ornare risus, eu pretium enim ligula nec enim. Ut eget fringilla mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non lorem lacus. Aliquam id dui velit. Duis rhoncus, dui eget blandit feugiat, mauris mi ornare risus, eu pretium enim ligula nec enim. Ut eget fringilla mi.</p>
+          <hr style="color: white; border-top: dashed 1px;"></p>
+          
+</div>
+          
+          
+        </div>
+      
+    </div>
+    
+  </div>
+  </div>
+    <p style="text-align:right;"><a href="https://toyhou.se/daedaleanart"><i class="fa-solid fa-code"></i></a></p>
+</div>
